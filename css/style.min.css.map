@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "E:/DOC/Akbar/Work/site/akbaryahya-dev",
+	"sourceRoot": "F:/DOC/Akbar/Work/site/akbaryahya-dev",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",
